@@ -4,8 +4,8 @@
 ## Table of Contents
 - [Description](#description)
 - [Execution](#execution)
-- [Files Used](files-used)
-- [Additional Information](additional-information)
+- [Files Used](#files-used)
+- [Additional Information](#additional-information)
 ---
 ## Description
 *This is where the description goes. Provide a basic overview of the project, and explain variables, methodologies, tools, etc.*
