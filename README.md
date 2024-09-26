@@ -31,7 +31,7 @@ Here's an image! 📷
 ![Picture of the Kuching Waterfront at night](https://github.com/user-attachments/assets/eb2761d1-60bb-40cd-9792-fe1652361365)
 
 ## Files Used
-1. List the files used here!
+- List the files used here!
   - Nested list item 1
     - Nested list item 2
 
